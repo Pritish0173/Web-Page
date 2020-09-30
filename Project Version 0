@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Legends of Tennis</title>
+        <meta charset="utf-8">  
+        <style>           
+            p {
+              color: darkred;
+              background-color: moccasin;
+              font-family: 'Times New Roman';
+            }
+            h1
+            {
+                color : rgb(207, 100, 100);
+                background-color: aquamarine;
+            }
+            body 
+            {
+                background-color: powderblue;
+            }
+            h3{
+                font-family: 'Lucida Sans';
+            }
+            table{
+                  background-color: mediumaquamarine;
+                  border-color: darkgoldenrod;
+                  text-align: center;
+                  margin-left: 30%;
+            }
+            a :hover {
+                color: darkred;
+            }   
+           
+        </style>      
+    </head>
+    <body>
+        
+        <h1><strong><em>Some of the Greatest :</em></strong></h1>
+        <h3>By the order of Grand Slam wins:</h3>
+        <ol>
+            <li>Roger Federer</li>	
+            <li>Rafael Nadal</li>	
+            <li>Novak Djokovic</li>	
+            <li>Pete Sampras</li>	
+            <li>Roy Emerson</li>	
+            <li>Rod Laver</li>	
+            <li>Björn Borg</li>	
+            <li>Bill Tilden</li>	
+            <li>Fred Perry</li>	
+            <li>Ken Rosewall</li>	
+            <li>Jimmy Connors</li>	
+            <li>Ivan Lendl</li>	
+            <li>Andre Agassi</li>	
+        </ol>
+        <p>
+            Some of the greatest legends were measured by the number of Grand Slams they held in their lifetime.<br>
+            Primarily, there are four Grand slams conducted throughout the year. They are :                   
+        </p class="image">
+            <a href = "https://en.wikipedia.org/wiki/Australian_Open">Australian Open</a><br>
+            <img src = "https://cdn1.theweek.co.uk/sites/theweek/files/styles/16x9_710/public/2020/01/australian_open_tennis_grand_slam_rod_laver_arena_melbourne_gettyimages-1084502602.jpg?itok=G_0KzEJc" alt = "Australian Open" width ="200"><br>
+            <br>
+            <a href = "https://en.wikipedia.org/wiki/French_Open">French Open</a><br>
+            <img src = "https://image-cdn.essentiallysports.com/wp-content/uploads/20200403231821/french-open-right-now-we-have-no-intention-of-cancelling-event-.jpg" alt = "French Open" width ="200"><br>
+            <br>
+            <a href = "https://en.wikipedia.org/wiki/The_Championships,_Wimbledon">Wimbledon</a><br>
+            <img src = "https://www.essentiallysports.com/wp-content/uploads/how-to-watch-wimbledon-2018-live-online.jpg" alt = "Wimbledon" width ="200"><br>
+            <br>
+            <a href = "https://en.wikipedia.org/wiki/US_Open_(tennis)">US Open</a><br>
+            <img src = "https://photo-assets.usopen.org/images/pics/large/f_Prom-Level-Seat.jpg" alt = "US Open" width ="200"><br>
+            <br>
+            <br>
+            <table border="">
+                <thead>
+                    <tr>
+                        <th>Player Names</th>
+                        <th>No of Grand Slams Won</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Roger Federer</td>
+                        <td>20</td>
+                    </tr>
+                    <tr>
+                        <td>Rafael Nadal</td>
+                        <td>19</td>
+                    </tr>
+                    <tr>
+                        <td>Novak Djokovic</td>
+                        <td>17</td>
+                    </tr>
+                    <tr>
+                        <td>Pete Sampras</td>
+                        <td>14</td>
+                    </tr>
+                    <tr>
+                        <td>Roy Emerson</td>
+                        <td>12</td>
+                    </tr>
+                    <tr>
+                        <td>Rod Laver</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>Björn Borg</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>Bill Tilden</td>
+                        <td>10</td>
+                    </tr>
+                    <tr>
+                        <td>Fred Perry</td>
+                        <td>8</td>
+                    </tr>
+                    <tr>
+                        <td>Ken Rosewall</td>
+                        <td>8</td>
+                    </tr>
+                    <tr>
+                        <td>Jimmy Connors</td>
+                        <td>8</td>
+                    </tr>
+                    <tr>
+                        <td>Ivan Lendl</td>
+                        <td>8</td>
+                    </tr>
+                    <tr>
+                        <td>Andre Agassi</td>
+                        <td>8</td>
+                    </tr>
+                </tbody>
+            </table>
+    </body>
+</html>
